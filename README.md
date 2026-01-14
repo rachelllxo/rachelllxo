@@ -34,4 +34,4 @@
 
 ### 📫 Reach me through LinkedIn: https://www.linkedin.com/in/rachel-e-29897b327/
 
-###😄 Pronouns: She/Her
+### 😄 Pronouns: She/Her
