@@ -9,10 +9,7 @@
 -> Machine Learning models (XGBoost, tree-based models, feature engineering)  
 
 -> Data preprocessing, encoding strategies, and model evaluation (RMSE, validation methods)  
-
--> Web application development and modular system design    
-
--> Improving time management and structured learning workflows  
+ 
 
 ## 💞️ I’m looking to collaborate on: 
 
