@@ -13,13 +13,6 @@
 ~ Hackathons and research prototypes
 
 
-
-## 🏛️ Recent Milestones: 
-
-- Worked on a large student performance prediction dataset (~20,000 records), exploring limitations of linear regression and transitioning to more robust ML models
-
-- Strengthened foundational programming skills through algorithm practice and debugging real code issues
-
 ### 📫 Reach me through LinkedIn: https://www.linkedin.com/in/rachel-e-29897b327/
 
-### 😄 Pronouns: She/Her
+
