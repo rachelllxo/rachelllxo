@@ -1,27 +1,18 @@
 ![Rachel's GitHub Banner](https://raw.githubusercontent.com/rachelllxo/rachelllxo/refs/heads/main/banner.png)  
 
 ## 👀 I’m interested in:   
- Building software systems, ML models and research driven problem solving in Computer Science. 
+ Building software systems, ML models and research driven problem solving in Computer Science and Engineering. 
 
-## 🌱 I’m currently learning:  
--> Advanced C++    
-
--> Machine Learning models (XGBoost, tree-based models, feature engineering)  
-
--> Data preprocessing, encoding strategies, and model evaluation (RMSE, validation methods)  
- 
 
 ## 💞️ I’m looking to collaborate on: 
 
+~ Image Processing and Computer Vision Projects
+~ Open-source contributions 
 ~ Machine learning projects involving real datasets and predictive modeling
-
 ~ Web applications, dashboards, and automation tools
+~ Hackathons and research prototypes
 
-~ Open-source contributions related to education, productivity, or data tools
 
-~ Hackathons, research prototypes, and proof-of-concept systems
-
-~ Algorithm practice and coding interview preparation
 
 ## 🏛️ Recent Milestones: 
 
