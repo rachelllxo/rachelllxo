@@ -1,5 +1,3 @@
-![Rachel's GitHub Banner](https://raw.githubusercontent.com/rachelllxo/rachelllxo/refs/heads/main/banner.png)  
-
 ## 👀 I’m interested in:   
  Building software systems, ML models and research driven problem solving in Computer Science and Engineering. 
 
